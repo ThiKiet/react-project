@@ -1,0 +1,13 @@
+.cartItem {
+  max-width: 740px;
+  margin: auto;
+}
+
+.cartImage{
+  width: 140px;
+}
+
+.prod-description{
+  display: flex;
+  align-items: center;
+}
